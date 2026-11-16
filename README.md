@@ -12,4 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github-stats-extended.vercel.app/api?username=joeyism
+
+![Joey's GitHub stats](https://github-stats-extended.vercel.app/api?username=joeyism&show_icons=true&theme=radical)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=joeyismlayout=compact&theme=radical)
+
